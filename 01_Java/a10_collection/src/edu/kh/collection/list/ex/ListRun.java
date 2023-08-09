@@ -4,6 +4,6 @@ public class ListRun {
 		public static void main(String[] args) {
 			
 			ListEx ex = new ListEx();
-			ex.ex1();
+			ex.ex2();
 		}
 }
