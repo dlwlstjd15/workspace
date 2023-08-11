@@ -6,7 +6,7 @@ public class IORun {
 	public static void main(String[] args) {
 		
 		IOService service = new IOService();
-		service.charInput();
+		service.objectIutput();
 	}
 
 }
